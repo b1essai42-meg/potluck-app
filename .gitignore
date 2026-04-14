@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.env.local
+npm-debug.log*
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+.pytest_cache/
+playwright-report/
+test-results/
+.DS_Store
+.idea/
+*.swp
+Thumbs.db
