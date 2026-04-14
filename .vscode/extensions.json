@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ms-python.python",
+    "ms-python.pylance",
+    "ms-azuretools.vscode-docker",
+    "mongodb.mongodb-vscode",
+    "eamodio.gitlens",
+    "ms-playwright.playwright",
+    "rangav.vscode-thunder-client"
+  ]
+}
